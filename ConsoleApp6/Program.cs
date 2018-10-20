@@ -7,6 +7,7 @@ namespace ConsoleApp6
 {
     /// <summary>
     /// Install-Package System.DirectoryServices.AccountManagemen 
+    /// Install-Package Novell.Directory.Ldap.NETStandard -Version 2.3.8
     /// </summary>
 
     class Program
